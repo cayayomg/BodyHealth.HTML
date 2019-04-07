@@ -33,7 +33,7 @@ Pagina de ejercicio
        <body>
 
 
-       <h1> BodyHealth </h1>
+       <h1>BodyHealth</h1>
 
 
        <img src = https://www.rockandpop.cl/wp-content/uploads/2018/07/Ejercicio.jpg>
@@ -60,7 +60,7 @@ Pagina de ejercicio
 
 
 
-       <h2 id="Porque_es_importate">Lo importante de hacer ejecicio</h2>
+       <h2>Lo importante de hacer ejecicio</h2>
 
 
 
@@ -75,7 +75,7 @@ La intensidad y la carga deben ser determinadas de forma individual, ya que depe
 
 
 
-       <h2 id="beneficios" Beneficios biologicos </h2>
+       <h2> Beneficios biologicos </h2>
 
 <ul>
       <li> Mejora la forma y resistencia física.</li>
@@ -91,7 +91,7 @@ La intensidad y la carga deben ser determinadas de forma individual, ya que depe
 
 
 
-       <h2 id="beneficios" Beneficios psicologocos </h2>
+       <h2> Beneficios psicologocos </h2>
 
 <ul>
       <li> Aumenta la autoestima.</li>
@@ -109,7 +109,7 @@ La intensidad y la carga deben ser determinadas de forma individual, ya que depe
 
 
 
-      <h2> id="calistenia">Rutinas Calistenicas</h2>
+      <h2>Rutinas Calistenicas</h2>
 
 
 
