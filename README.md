@@ -109,7 +109,7 @@ La intensidad y la carga deben ser determinadas de forma individual, ya que depe
 
 
 
-      <h2 id="calistenia">Rutinas Calistenicas</h2>
+      <h2> id="calistenia">Rutinas Calistenicas</h2>
 
 
 
@@ -152,7 +152,7 @@ La intensidad y la carga deben ser determinadas de forma individual, ya que depe
                   <td>20seg</td>
               </tr>
        </tbody>
-/table>
+</table>
 
 
 
@@ -196,7 +196,7 @@ La intensidad y la carga deben ser determinadas de forma individual, ya que depe
                   <td>3x20 seg</td>
               </tr>
        </tbody>
-/table>
+</table>
 
 
 
